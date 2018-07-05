@@ -10,7 +10,7 @@ successive elements take on all the values 1 through n-1. For instance,
 is a jolly jumper, because the absolutes differences are 3, 2, and 1 respectively.
 The definition implies that any sequence of a single integer is a jolly jumper.
 You are to write a program to determine whether or not each of a number of sequences is a jolly jumper.
- */
+*/
 
 public class JollyJumper {
     public static void main(String[] args) throws Exception{

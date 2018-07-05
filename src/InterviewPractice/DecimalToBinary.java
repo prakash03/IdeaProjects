@@ -6,10 +6,12 @@ public class DecimalToBinary {
         System.out.println("Binary format of " + decimal + " is: ");
         String binary = "";
         while(decimal!=0){
-            binary = Integer.toString(decimal%2)+binary;
+            binary = Integer.toString(decimal%2) + binary; //Important since the Binary Digits are added to the front of String.
             decimal /= 2;
         }
         System.out.println(binary);
+        System.out.println(Integer.valueOf(binary));
+
 
     }
 }

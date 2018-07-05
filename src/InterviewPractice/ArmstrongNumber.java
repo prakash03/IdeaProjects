@@ -13,7 +13,7 @@ public class ArmstrongNumber {
             finalNumber += Math.pow(digit,3); //math.pow function for achieving exponent.
         }
 
-        return finalNumber == number? true: false;
+        return finalNumber == number ? true: false;
     }
 
     //Finding Armstrong numbers in a given range i.e.999
