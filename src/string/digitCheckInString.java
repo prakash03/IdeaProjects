@@ -7,7 +7,7 @@ public class digitCheckInString {
     static boolean finder(String str){
         for(int i=0; i<str.length(); i++){
             int value = 'a'- str.charAt(i);
-            if(value<40 || value > 49){
+            if(value < 40 || value > 49){
                 System.out.println("Contains characters other than digits");
                 return false;
             }

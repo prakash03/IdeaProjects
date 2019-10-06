@@ -28,22 +28,22 @@ public class StringClass {
         System.out.println("Character at index 4 is: "+ s_1.charAt(4));
         System.out.println("Character at index 2 is: "+ s_2.charAt(2));
 
-        System.out.println("Substrring from 5: "+ s_1.substring(5));
+        System.out.println("Substring from 5: "+ s_1.substring(5));
         System.out.println("Substring from 4 to 8 is: "+ s_2.substring(4,9));
 
         System.out.println("The combined string would be: " + s_1.concat(s_2));
 
-        System.out.println("Indexof the first occcurence of 'order' is: "+ s_3.indexOf("order"));
+        System.out.println("Index of the first occurrence of 'order' is: "+ s_3.indexOf("order"));
 
         System.out.println("Comparing the 2 strings lexicographically: "+ s_1.compareTo(s_2));
 
         System.out.println("Are the 2 strings equal? "+ s_1.equals(s_2));
 
-        System.out.println("Are 1 and 4 strrings equal? "+ s_1.equalsIgnoreCase(s_4));
+        System.out.println("Are 1 and 4 strings equal? "+ s_1.equalsIgnoreCase(s_4));
 
         System.out.println("PRAKASH".toLowerCase());
         System.out.println("fcking awesome".toUpperCase());
-        System.out.println("   Lets remove the spaces at the ends, not middle  :".trim());
+        System.out.println("   Lets remove the spaces at the ends, not in between  :".trim());
         System.out.println("Replaces all the characters as required:".replace('a','f'));
 
 
