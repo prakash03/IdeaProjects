@@ -17,7 +17,7 @@ public class BFS {
     void bfs(){ bfs(root);}
 
     void bfs(Node root){
-        for(int d = 1; d<= height(root); d++){
+        for(int d = 1; d <= height(root); d++){
             System.out.println(" ");
             printBfs(root, d);
         }

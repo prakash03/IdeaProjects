@@ -12,7 +12,7 @@ public class BFS {
     BFS(int v){
         V = v;
         adj = new LinkedList[v]; //Creates and Array of LinkedList<Integer> of size 'v'.
-                                // Sames as LinkedList<Integer> list[] = new LinkedList[5];
+                                // Same as LinkedList<Integer> list[] = new LinkedList[5];
         for(int i=0; i<v; ++i){
             adj[i] = new LinkedList<>();
         }

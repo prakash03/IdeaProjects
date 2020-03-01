@@ -2,70 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944fa315-7d6b-41c3-a901-63956b2f6941" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/TwoSumNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/CountCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/ReverseVowelsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/BulbSwitcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/FindOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/MatrixSpiralCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/RotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RottenOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewPractice/PowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewPractice/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeProblems/LongestArithmeticSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeProblems/MaxProductOfWordLengths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SwapListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityQueue/ExamplePriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/DecodeVariations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/MagicIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/MinimumFallingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/MinimumTicketsCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/MultiplyIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_progamming/RobotInAGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmap/BasicHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmap/FlattenedDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newTreePackage/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newTreePackage/CheckIdenticalBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newTreePackage/FloorAndCeilOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newTreePackage/InOrderPredecessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/MaskingPersonalInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/ReorderLogFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/TopNBuzzwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/ChildLinkedListsProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/ConstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/FindGreaterTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/FlattenBinaryToLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/GreaterTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/HouseRobber3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/CopyListWithRandomPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/FindPairWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/LongestPalidromicSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/RottenOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/SubtreeOfAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/TopNBuzzwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/TreasureIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/practice/amazonQuestions/TreasureIsland2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Arrays/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Arrays/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Arrays/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Arrays/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BlockChain/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BlockChain/Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BlockChain/BlockChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BlockChain/BlockChain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BlockChain/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BlockChain/Transaction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/BrickWall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/BrickWall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/FiftyCardsProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/FiftyCardsProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Gangsters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Gangsters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Graphs/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Graphs/BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Graphs/GraphRep$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Graphs/GraphRep$Graph.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Graphs/GraphRep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Graphs/GraphRep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/InterviewPractice/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/InterviewPractice/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/InsertInLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/InsertInLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/InsertInLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/InsertInLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListString$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListString$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListUnionIntersection$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListUnionIntersection$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListUnionIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/LinkedList/LinkedListUnionIntersection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/NotUsingFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/NotUsingFor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Stacks/ParenthesisCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Stacks/ParenthesisCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Stacks/QueueRep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Stacks/QueueRep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Testing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Testing/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Testing/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Testing/BankAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Testing/BankAccountTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Testing/StringUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/Testing/StringUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/ToeplitzMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/ToeplitzMatrix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/queue/StackUsingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/queue/StackUsingQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/randomInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/randomInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/AnagramCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/AnagramCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/CharacterDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/CharacterDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/FindIfSebsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/FindIfSebsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/StringClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/compressedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/compressedString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/digitCheckInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/digitCheckInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/firstNonRepeatedChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/firstNonRepeatedChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/string/ReverseVowelsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/string/ReverseVowelsInString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BinarySearchTree$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BinarySearchTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/Problem_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/Problem_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/TreeProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/TreeProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/TreeSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/TreeSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/buildTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/buildTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/buildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/buildTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/checkBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/checkBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/tree/compareBinaryTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/tree/compareBinaryTrees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/digitCheckInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/digitCheckInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphs/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graphs/GraphRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/GraphRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queue/StackUsingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queue/StackUsingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinaryTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +88,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QFlKv84yzq8CZsIUzAmeG7MDTG" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="string" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -96,9 +108,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseVowelsInString">
-    <configuration name="CharacterDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.CharacterDuplicates" />
+  <component name="RunManager" selected="Application.TopNBuzzwords">
+    <configuration name="FindPairWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.practice.amazonQuestions.FindPairWithGivenSum" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.practice.amazonQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.LongestCommonPrefix" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +135,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.CountCharacters" />
+    <configuration name="TopNBuzzwords (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.practice.amazonQuestions.TopNBuzzwords" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.practice.amazonQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNBuzzwords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.TopNBuzzwords" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
@@ -123,38 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.ReverseVowelsInString" />
+    <configuration name="TreasureIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.practice.amazonQuestions.TreasureIsland" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringClass" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.TwoSumNew" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.Practice.*" />
+          <option name="PATTERN" value="tree.practice.amazonQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseVowelsInString" />
-        <item itemvalue="Application.CountCharacters" />
-        <item itemvalue="Application.StringClass" />
-        <item itemvalue="Application.TwoSumNew" />
-        <item itemvalue="Application.CharacterDuplicates" />
+        <item itemvalue="Application.TopNBuzzwords" />
+        <item itemvalue="Application.TopNBuzzwords (1)" />
+        <item itemvalue="Application.FindPairWithGivenSum" />
+        <item itemvalue="Application.TreasureIsland" />
+        <item itemvalue="Application.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +237,11 @@
           <url>file://$PROJECT_DIR$/src/string/ReverseVowelsInString.java</url>
           <line>29</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/practice/GreaterTree.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

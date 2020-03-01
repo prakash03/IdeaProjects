@@ -1,8 +1,8 @@
 package tree;
 
-class BinarySearchTree{
+public class BinarySearchTree{
     Node root;
-    class Node{
+    public class Node{
         int data;
         Node left, right;
         Node(int data){
@@ -62,9 +62,5 @@ class BinarySearchTree{
         tree.insert(2);
 
         tree.inOrder(tree.root);
-
-
-
-
     }
 }

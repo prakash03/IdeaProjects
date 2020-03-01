@@ -23,19 +23,18 @@ class BinaryTree{
         else if(root.left == null && root.right== null){
             return 1;
         }
-        else if (root.left!=null && root.right== null){
+        else if (root.left != null && root.right == null){
             return minimumDepth(root.left)+1;
         }
-        else if (root.left == null && root.right!=null){
+        else if (root.left == null && root.right != null){
             return minimumDepth(root.right)+1;
         }
         else return 1 + Math.min(minimumDepth(root.left), minimumDepth(root.right));
-
     }
 
     void inOrder() { inOrder(root);} //Wrappers for the recursive functions;
-    void preOrder() {preOrder(root);}
-    void postOrder() {postOrder(root);}
+    void preOrder() { preOrder(root); }
+    void postOrder() { postOrder(root); }
 
     void inOrder(Node root){ //Recursive Functions
         if(root == null){

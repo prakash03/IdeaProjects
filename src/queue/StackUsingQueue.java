@@ -40,5 +40,14 @@ public class StackUsingQueue {
         hybridStack.push(3);
         hybridStack.push(4);
         System.out.println(hybridStack.pop());
+
+        Queue<Integer> queue = new LinkedList<>();
+        queue.add(1);
+        queue.add(2);
+        queue.add(3);
+
+        System.out.println(queue.peek());
+
+
     }
 }

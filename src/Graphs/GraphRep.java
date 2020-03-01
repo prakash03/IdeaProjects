@@ -49,9 +49,5 @@ public class GraphRep {
         addEdge(graph,5,0);
 
         printGraph(graph);
-
-
-
-
     }
 }
